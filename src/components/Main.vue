@@ -8,8 +8,8 @@ defineProps<{
   <div class="greetings">
     <!-- <h1 class="red">{{ msg }}</h1> -->
     <h3>
-      Welcome to Netflix. Subscribe to watch the latest shows.! Costs starting
-      at only <span class="green">0.1 ETH!</span>
+      Welcome to Netflix. Subscribe to watch the latest shows! Costs starting
+      at only <span class="green">1 ETH!</span>
     </h3>
   </div>
 </template>
